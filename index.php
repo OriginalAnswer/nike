@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <title>Nike Info</title>
-    <link rel="stylesheet" href="http://localhost/Coding_school/nike/css/style.css">
+    <link rel="stylesheet" href="http://localhost/Coding_school/nike/style.css">
   </head>
   <body>
     <header>
