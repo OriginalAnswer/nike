@@ -1,0 +1,55 @@
+<div class="title">
+  <h1>AIR MANUFACTURING INNOVATION</h1>
+  <p>
+    <strong>AIR MOVES US.</strong><br>
+    Welcome to the soul of Nike Air: Air Manufacturing Innovation,
+    where we live and breathe Nike’s purpose to use the power of sport to move the world forward.
+    We imagine, design and create technology that elevates every athlete’s potential. And we’re sprinting toward a sustainable future.
+  </p>
+  <h1>에어 혁신의 모든 것(:에어의 혁신은 현재진행형/에어 제조 혁신)</h1>
+  <p>
+    <strong>에어는 우리의 심장을 두근거리게 한다.</strong><br>
+    나이키의 근간에 대해서 : 나이키의 목적은 스포츠의 힘으로 세상을 앞으로 나아가게 하는 것이다.<br>
+    상상하고 디자인하고 기술을 창조함으로써 모든 선수들의 잠재력을 끌어올린다. 그리고 계속되는 미래를 향해 질주하고 있다.
+  </p>
+  <p>
+    <strong>WHAT IS NIKE AIR?</strong><br>
+    Nike Air technology consists of pressurized air inside a tough yet flexible bag and provides more spring without compromising the structure.
+    <br>
+    나이키 에어 테크놀로지는 견고하면서도 유연한 백(우레탄 백) 안에 압축된 에어로 구성되어있으며, 구조를 손상시키지 않고 더 많은 스프링(에너지복원)을 제공한다.
+  </p>
+  <p>
+    From the Tailwind to the Air Max 270, we create the unparalleled sensation of walking on air.
+    Here’s a look back at the shoes that shaped the evolution of Air:<br>
+    테일윈드부터 에어맥스 270까지, 우린 공기 위를 걷는 비교할 수 없는 센세이션을 일으켰다. 지난 에어의 변화과정을 신발들과 함께 보자:<br>
+    (직역: 여기 이건 에어의 에볼루션(진화?)를 빗은(만든?) 신발들의 룩백(변천사?역사?)이야: )
+  </p>
+  <table class="center">
+    <tbody>
+      <tr>
+        <td>TAILWIND</td><td>1979</td><td> <input type="submit" name="more" value="more" onclick="alert('With a limited release at the 1978 Honolulu Marathon and debuting to retail in 1979, the Tailwind was the first shoe to ever use Air technology – the result of a maverick team working in Building 108, Nike’s manufacturing facility in Saco, Maine. Though a success with runners, the Air sole was encased in foam, drawing skepticism from some athletes because they could not see the Air. 1978년 호놀룰루 마라톤에서 리미티드로 출시되었 1979년 공식 발매(소매)로 데뷔하게 되었다. 테일윈드는 에어 테크놀로지가 사용된 최초의 신발이다 – 메인 주, 사코에 있는 나이키 제조 시설 108 빌딩에서 일하는 매버릭 팀이 만들어 낸 결과이다. 신발이 러너들에게 성공했음에도 불구하고, 에어 솔이 폼 안쪽에 덮여있어서, 그들이 공기를 직접 볼 수 없었기 때문에 몇몇의 선수들에게 회의적인 태도를 만들어냈다.')"> </td>
+      </tr>
+      <tr>
+        <td>AIR MAX 1</td><td>1987</td><td><input type="submit" name="more" value="more" onclick="alert('The brainchild of a renowned team of designers and engineers, this was the first shoe that made air visible. Combined with unprecedented comfort and striking colorways, the Nike Air Max 1 continues to capture the attention of athletes and collectors alike. 디자이너들과 엔지니어들로 구성된 유명한 팀의 아이디어로, 이것은 에어를 눈에 보이게 만든 첫번째 신발이었다. 전례 없이 편안하고 빼어난 색채가 결합된, 나이키 에어 맥스 1은 선수들과 수집가들 모두의 관심을 끈다.(선수들과 콜렉터들에게 똑같이 관심을 끄는걸 컨티뉴한다.)')"> </td>
+      </tr>
+      <tr>
+        <td>AIR MAX 95</td><td>1995</td><td><input type="submit" name="more" value="more" onclick="alert('1995 marked a new era for Air technology. Nike had figured out how to integrate visible Air in the forefoot, and drawing inspiration from geology and Oregon’s muddy running trails, took a hard departure from historic designs. A black midsole — the first in Nike shoes — were devised to hide dirt. The striated, dark colorways of the Air Max 95 were subtly accented with fluorescent yellow elements, a nod to Nike’s track heritage, and complemented by a small Swoosh on the heel cup. 1995년은 에어 테크놀로지의 새로운 시대를 열었다.')"></td>
+      </tr>
+      <tr>
+        <td>AIR ZOOM ALPHA</td><td>1996</td><td><input type="submit" name="more" value="more" onclick="alert('By 1996, Air had captured the imagination of athletes worldwide, and runners in particular. Nike Air MI innovators continued to surprise. Leveraging tensile technology, the Air Zoom Alpha was a low-profile wonder for runners. The technology allowed the sole to recharge with each stride. Four, anatomically positioned pods resulted in maximal running efficiency, and laid the foundation for decades of running innovation.')"></td>
+      </tr>
+      <tr>
+        <td>AIR MAX 97</td><td>1997</td><td><input type="submit" name="more" value="more" onclick="alert('The Air Max 97 made it clear that the Air revolution was far from over. Inspired by the ripple created from a drop of water into a pond, the 97 pushed the boundaries of design with silver reflective piping, amplified by light. Paired with a hidden lacing system and the first one-piece Air sole, this sneaker checks all the boxes of an icon.')"></td>
+      </tr>
+      <tr>
+        <td>AIR MAX 360</td><td>2006</td><td><input type="submit" name="more" value="more" onclick="alert('A foamless shoe had been the moonshot for Nike since its inception. In 2006, intention became reality with caged Air technology. The Air Max 360 was a nod to the team’s historic designs, while the foamless sole ensured unimagined performance.')"></td>
+      </tr>
+      <tr>
+        <td>AIR MAX VAPOR MAX</td><td>2017</td><td><input type="submit" name="more" value="more" onclick="alert('Dreams of running only on air materialized in the form of the VaporMax. An eight-year endeavor, this shoe was a feat of engineering and innovation. To achieve the seamless, near-weightless form, 39,000 parts were orchestrated, including the new, highly efficient air bag attached directly to the Flyknit upper using intricate Flywire technologies. No glue, no midsole, no sock liner – just stunning design and the sensation of clouds underfoot.')"></td>
+      </tr>
+      <tr>
+        <td>AIR MAX 270</td><td>2018</td><td> <input type="submit" name="more" value="more" onclick="alert('The Air Max 270 is Nike’s first Air shoe built specifically for lifestyle wear. Drawing on the DNA of the 180 and 93, the 270 pairs the future-forward zonal-mesh upper with a 32-mm heel Air sole. The smooth lines and cushioned ride have won over the likes of Kevin Durant, setting the bar high for future innovations.')"> </td>
+      </tr>
+    </tbody>
+  </table>
+</div>

@@ -1,0 +1,2 @@
+<li class="current"><a href="http://localhost/Coding_school/nike/index.php?id=aboutnike">About Nike</a></li>
+<li class="current"><a href="http://localhost/Coding_school/nike/index.php?id=air">Air</a></li>

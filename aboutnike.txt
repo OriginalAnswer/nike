@@ -1,0 +1,25 @@
+<div class="title">
+  <h1>ABOUT NIKE</h1>
+  <strong>BRING INSPIRATION AND INNOVATION TO EVERY ATHLETE* IN THE WORLD.</strong><br>
+  *IF YOU HAVE A BODY, YOU ARE AN ATHLETE.<br>
+  <strong>세상의 모든 선수들에게 영감과 혁신을 불러일으켜라.</strong><br>
+  *움직일 수 있다면, 당신 또한 선수이다.
+  <p>
+    <strong>ABOUT NIKE</strong> <br>
+    Our mission is what drives us to do everything possible to expand human potential.
+    We do that by creating groundbreaking sport innovations, by making our products more sustainably,
+    by building a creative and diverse global team and by making a positive impact in communities where we live and work.
+    _Based in Beaverton, Oregon, NIKE, Inc. includes the Nike, Converse, Hurley, and Jordan brands.
+  </p>
+  <p>
+    우리의 임무는 우리가 인간의 잠재력을 확장시키기 위해 가능한 모든 것을 하도록 하는 것이다.
+    우리는 획기적인 스포츠 혁신을 만들고, 제품을 보다 지속 가능하게 만들고, 창의적이고 다양한 글로벌 팀을 만들고,
+    우리가 살고 일하는 지역사회에 긍정적인 영향을 줌으로써 그것을 한다._오리건주 비버턴에 본사를 둔 나이키는 나이키, 컨버스, 헐리, 조던 브랜드를 포함한다.
+  </p>
+  <p>
+    <a href="aboutnike_innovation.html"><strong>INNOVATION : WE DARE TO DESIGN THE FUTURE OF SPORT</strong></a><br>
+    <a href="aboutnike_team.html"><strong>TEAM : A TEAM THAT'S BOLD, DIVERSE AND INCLUSIVE</strong></a><br>
+    <a href="aboutnike_thepowerofsport.html"><strong>THE POWER OF SPORT(glrobal community effect) : THE WORLD IS OUR COMMUNITY</strong></a><br>
+    <a href="aboutnike_sustainability.html"><strong>SUSTAINABILITY : A FAIR, SUSTAINABLE FUTURE FOR EVERY ATHLETE</strong></a><br>
+  </p>
+</div>
